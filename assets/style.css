@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+}
+
+h1{
+    margin-bottom: 10px;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: rgba(192, 185, 185, 0.76);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-size: medium;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+
+  .img-fluid {
+    height: 100%;
+    width: 150%;
+}
+
+.col-md-3 > ul{
+  font-size: small;
+  font-weight:normal;
+  font-family: 'Times New Roman', Times, serif;
+  list-style-type: none;
+}
+
+li > a {
+    text-decoration: none;
+}
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
