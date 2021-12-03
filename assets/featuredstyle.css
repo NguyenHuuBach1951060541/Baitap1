@@ -1,0 +1,10 @@
+.col-md-3 > ul{
+    font-size: small;
+    font-weight:normal;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type: none;
+  }
+  
+  li > a {
+      text-decoration: none;
+  }
