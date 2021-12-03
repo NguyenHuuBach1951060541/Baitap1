@@ -1,0 +1,26 @@
+.col-md-3 > ul{
+    font-size: small;
+    font-weight:normal;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type: none;
+  }
+  
+  li > a {
+      text-decoration: none;
+  }
+
+  h1 {
+      font-size: 25px;
+      font-weight: normal;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+
+  .img-fluid {
+    height: 100%;
+    width: 150%;
+}
